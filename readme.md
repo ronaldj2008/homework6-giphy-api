@@ -1,5 +1,7 @@
 Homework 6 - Giphy Api
 
+ https://ronaldj2008.github.io/homework6-giphy-api/
+
 This app allows you to dynamically generate buttons that trigger a Giph based on Key words.
 Giphs are accompanied by images thumbnails that trigger and stop motion when clicked. 
 
